@@ -1,0 +1,592 @@
+[
+  {
+    "name": "Work",
+    "subtitle": "Try Stylist Picked Work Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/9742719/2019/6/10/2ffbdcd3-7375-42db-b4aa-e344c36185a91560168699116-aamna-Navy-Blue-Solid-Pure-Cotton-Saree-7851560168697438-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/9742745/2019/6/10/ba88551a-c68e-4a56-b12b-0f7435de92c81560169973146-aamna-Maroon-Solid-Pure-Cotton-Saree-8101560169971300-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/9742755/2019/6/10/0a08bd57-d3d4-491c-a973-e31a758f397e1560168708829-aamna-Gold-Toned-Solid-Silk-Cotton-Saree-8961560168707433-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/9742711/2019/6/10/f4753539-86a1-4621-b6f9-b86df3f7f6341560169952447-aamna-Grey--Black-Silk-Cotton-Colourblocked-Saree-2881560169-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/15403324/2021/9/8/05629ba3-bb0b-4122-9f62-17c6503f7b261631088681345Salwar1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2021/6/13/f9f55db1-a017-4413-a3a7-6edf455c416b1623599217065-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2021/6/13/b3e54c4b-45cb-4aaa-b30e-9ac905691c771623599344944-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Sports",
+    "subtitle": "Try Stylist Picked Sports Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/10363111/2019/8/13/ec6b94ea-1b7a-47aa-954c-a787820950f01565681979207-Hubberholme-Men-Track-Pants-3541565681978244-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2021/5/3/6668696b-8bfd-484d-b61c-7f875be941c81620026228953-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/12332460/2020/9/17/6ecfe2b4-9da5-48c6-8fe9-9871343faafd1600311358758-Mast--Harbour-Men-Olive-Green-Solid-Track-Pants-298160031135-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/11443762/2020/3/2/131037e6-e744-425f-9d35-2135edceb82d1583149531678-Jockey-Men-Lounge-Tshirts-4831583149530229-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2020/11/10/1f4c9d8e-673c-487c-b172-4a1bfd334af61604974408766-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2020/11/10/ab18020a-418f-490d-8c62-5e1aeea980691604954791223-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2021/5/19/483bba70-ab29-422b-8584-c98ea79ebe3a1621398841168-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Daily",
+    "subtitle": "Try Stylist Picked Daily Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/10848096/2019/11/8/86bdec54-7ca6-4a6a-9bba-0ceb7830204f1573214846109-Anubhutee-Women-Kurtas-6221573214844382-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/10513948/2019/9/4/e515a887-a59f-48bf-a53b-0181c4381a431567580918498-Anubhutee-Women-Kurtas-991567580917526-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/11090420/2019/12/13/cc503a16-1497-4843-86c3-48b231ad3bab1576244959177-Anubhutee-Women-Black--Off-White-Printed-Kurta-with-Palazzos-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/10520842/2019/9/4/76eae827-b4d4-4fd4-a66c-47afb0e092eb1567590400393-Anubhutee-Women-Kurta-Sets-6061567590398885-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/10317835/2019/8/8/7f0cbbd4-d267-4973-842b-7d679fe573991565264655604-Jaipur-Kurti-Women-Kurta-Sets-8541565264654171-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/10942382/2019/11/19/aea7e35e-9031-43ff-9509-b83f5c8ae1f41574150112037-Anubhutee-Women-Kurta-Sets-481574150110373-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/11531236/2020/2/26/e144d56b-96d5-4b38-b0be-54ebb9a62d761582698539852-Anubhutee-Women-Kurta-Sets-8471582698538555-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Semiformal",
+    "subtitle": "Try Stylist Picked Semiformal Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/11293600/2020/2/27/ba5da810-7c4f-47ca-94bc-ae4977a0f27f1582803936689-Mast--Harbour-Men-Shirts-3821582803934859-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/13069208/2020/12/10/3a709d18-9bf8-4ae7-9d23-e722ae5fb76e1607604583474-Arrow-New-York-Men-Shirts-7671607604581632-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2019/1/16/577c54db-d5b3-469d-ad7b-5b9edba6e6591547621225906-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2019/1/16/5800f9a4-a8e2-4621-976b-04c06471f5181547621199284-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2019/11/21/f6438d1e-fcf3-499c-84f8-e34620f320c51574282585598-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/7248296/2019/8/9/3f079d4d-77bc-424c-87e4-2bf078e5a7aa1565348347647-Arrow-Men-Blue-Slim-Fit-Checked-Semiformal-Shirt-92815653483-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/8344939/2019/2/15/1dff754b-722a-4a80-8c4a-068fca1ebac11550225573558-Flying-Machine-Men-Shirts-8471550225571981-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Festive",
+    "subtitle": "Try Stylist Picked Festive Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/11090416/2019/12/13/ba5f515e-1320-4895-be40-15a70a529e1b1576244873040-Anubhutee-Women-Teal--White-Printed-Kurta-with-Palazzos-3371-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/10942392/2019/11/19/79f3d4a1-bbf3-442b-b7de-83573ebb99851574150523536-Anubhutee-Women-Kurta-Sets-1381574150520307-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/10941776/2019/11/19/2fbc5620-1157-42b0-81e8-718f590cd0bb1574139593329-Anubhutee-Women-Kurtas-6991574139591546-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/12289986/2020/9/2/4a8d260a-d0a7-4223-8fe0-749074ed146e1599041775805-Anubhutee-Women-Turquoise-Blue--White-Printed-Kurta-with-Pal-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/10942386/2021/12/14/7c613089-dda3-4bf1-b6c6-4e4ab2dafb071639465450280-Anubhutee-Navy-Blue-Foil-Print-A-Line-Viscose-Kurta-with-Pal-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/10613270/2019/9/21/5ceec45c-d0f5-4a9a-8a09-27bc5ff7ab4e1569065788077-Anubhutee-Women-Navy-Blue-Yoke-Design-Straight-Kurta-7831569-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/12290006/2020/9/2/21a738cb-c53a-47b1-9887-2a751025e54f1599030713159-Anubhutee-Women-Kurta-Sets-7401599030711850-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Outdoor",
+    "subtitle": "Try Stylist Picked Outdoor Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2020/11/10/7fb8382e-f08c-44c5-9f77-7b13a50b9da21605022738195-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/12351632/2020/9/21/10cd7a09-b246-45a8-a32c-b21273d72e671600683363263JacketsPumaMenShortsPumaMenShortsPumaMenShortsPumaMenSweatsh1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/16094566/2021/11/24/419cae16-56ed-402b-9f2b-ac51179e9e681637735872571-Slazenger-Men-Sweatshirts-5021637735872001-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2019/12/18/88b431e3-380f-4f3e-bc14-eef43c92e9d01576629061441-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2020/11/10/cff56a98-10c8-4f96-805c-37f2a63bfd391605022810382-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/14984576/2021/9/28/c360ad12-1fdc-4f09-9849-1944fceeaf361632833514072-Puma-Men-Olive-Green-Solid-Zippered-Full-Zip--Front-Open-Swe-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/16094590/2021/11/24/9f149e1b-b771-43f7-bb0f-fea5762229321637735380748-Slazenger-Men-Sweatshirts-711637735380257-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Casual",
+    "subtitle": "Try Stylist Picked Casual Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/10308521/2019/7/29/752a04e2-1093-4243-9fcd-64c9346486bf1564401142308-SASSAFRAS-Women-Pink-Shirt-Dress-6811564401140400-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/2471500/2018/2/9/11518159758071-FIDO-DIDO-Men-Tshirts-9591518159757862-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/11364152/2020/1/27/091a681c-beb4-4192-bc64-44ca554391141580121893720-SASSAFRAS-Women-White-Solid-Blouson-Top-731580121889856-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/9069883/2019/4/1/de4557bb-d82c-4933-a61d-ea61ef8a659d1554111871709-SASSAFRAS-Women-Olive-Green-Solid-Empire-Dress-1415541118706-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/10308637/2019/7/29/cae45b56-123b-4db9-b6a1-612cc597337e1564400317667-SASSAFRAS-Women-Maroon-Solid-A-Line-Dress-with-Pleats-551564-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/2042528/2017/9/28/11506599316866-Mast--Harbour-Men-Red--Blue-Regular-Fit-Checked-Casual-Shirt-7991506599316924-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/7413632/2018/9/21/0977813b-6e5f-474c-a545-df8e67e5f0ea1537530393736-SASSAFRAS-Women-Dresses-9851537530393557-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Party",
+    "subtitle": "Try Stylist Picked Party Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/1774649/2018/11/6/a322227c-be78-4af4-8850-95462b7ae0b51541487143086-SASSAFRAS-Women-Pink-Fit--Flare-Off-Shoulder-Midi-Dress-7461541487142977-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/12541512/2020/10/12/e7f8e773-8884-4a6f-b443-3c9de41ba4a21602491972128-SASSAFRAS-Women-Tops-6601602491968709-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/8473951/2019/1/12/f88079b6-fd7b-44ae-9c8d-80451273c47c1547285951024-Rangmanch-by-Pantaloons-Womens-Churidar-6091547285949578-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/1510827/2020/1/23/ece7b07b-66ea-4de0-8583-46fc9253c5121579779347154-SASSAFRAS-Women-Pink-Solid-Layered-Top-6301579779345514-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/2196419/2017/10/25/11508934598492-SASSAFRAS-Grey-Blazer-3781508934598286-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2020/1/22/10d0d9ca-c4c6-4afc-9f7f-4820478ed1421579642980082-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/12541544/2020/10/12/7b2cbb89-0e57-4a46-a28c-43255028c94b1602485036078-SASSAFRAS-Women-Dresses-4051602485033487-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Traditional",
+    "subtitle": "Try Stylist Picked Traditional Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/2066638/2017/8/31/11504162867689-Mimosa-By-Kupinda-Womens-Art-Silk-Saree-Kanjeevaram--Style-Color-Off-White-541504162867570-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/1926134/2017/5/25/11495714884157-MIMOSA-Navy-Blue-Art-Silk-Woven-Design-Kanjeevaram-Saree-8331495714883919-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/9876215/2019/6/14/2d5d04ea-8ae2-49c8-99b5-20870474c44f1560491980146-Pavechas-Women-Sarees-8881560491978409-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/9876263/2019/7/10/00fdd2a2-2a9b-46af-bce8-1c105c2ac3991562741557980-Pavechas-Pink--White-Pure-Cotton-Striped-Venkatgiri-Saree-13-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/11968826/2020/7/16/93375dc9-7ae1-4682-92f1-367a436dbd911594877394571-aamna-Women-Sarees-1181594877392821-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/7578361/2018/10/8/a1425762-6a28-4280-a7b4-16d64c358cd21538982781088-Mimosa-Kanjivaram-Style-Art-Silk-saree-Color--Maroon-7581538982780924-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2019/10/30/ff5cac31-7cf9-4b07-a16c-c6aaf8e6ea7d1572419559906-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Maternity",
+    "subtitle": "Try Stylist Picked Maternity Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/14161852/2021/6/21/f4d0b206-fe68-4c5a-922c-b7bf98d4d5c91624278757321-FeedingNursing-Maternity-Dress-3321624278756893-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/12618464/2020/11/10/28cf718d-cdd7-49eb-9c54-8e5be9a8acb01604999167750-Nejo-Women-Maroon-Printed-A-Line-Dress-5221604999165441-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/13647546/2021/2/19/3a245abd-6f14-4446-94d2-00d45381243c1613726704630-FeedingNursing-Maternity-Dress-9301613726702363-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/12720370/2020/11/12/dcf52140-5ce2-479e-9b70-2f020098845c1605156706457-Nejo-Women-Pink-Solid-A-Line-Dress-1871605156704832-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/13647552/2021/2/19/6c41c9ff-b498-418e-92a2-4c12066f7c701613726930154-FeedingNursing-Maternity-Dress-6951613726928686-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/15636832/2021/9/28/9aa7e597-f5a5-45ca-a54f-5b7e9162786c1632810685950AnubhuteeRedEthnicMotifsMaternityA-LineMidiDress1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/13611798/2021/2/19/aa469749-063e-4a9e-a509-9f46928b3b951613726207273-FeedingNursing-Maternity-Knit-Solid-Sleep-Top-47716137262055-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Fusion",
+    "subtitle": "Try Stylist Picked Fusion Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/13581390/2021/2/24/bb5b467f-0241-4a3f-b566-10fa1635812b1614167700675AnubhuteeWomenGreyPinkPureCottonFloralPrintKurtawithTrousers1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/2878360/2018/3/14/11521010208644-SASSAFRAS-Women-Kurtas-4461521010208467-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/9476083/2019/5/3/8c4ac3d1-5979-44c0-bd2c-2a76ef94796e1556879322117-Bene-Kleed-Men-Yellow--Orange-Printed-Straight-Kurta-3991556-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/10613244/2019/9/21/7f8f72a7-29b7-4888-b6da-9a6893ef63681569048230479-Anubhutee-Women-Kurtas-6881569048229117-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/9476079/2019/5/3/7bd78927-49fb-4005-ac5e-c323ff6fd98d1556879300723-Bene-Kleed-Men-Peach-Coloured-Solid-Straight-Kurta-739155687-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/9476087/2019/5/3/bd8e27ab-abd5-4db7-8bb1-f60165a3e9871556879327582-Bene-Kleed-Men-Beige--Khaki-Printed-Straight-Kurta-381556879-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/13021528/2020/12/15/a1639d2a-f789-4118-beed-63f29c1785771608024802266-Anubhutee-Women-Kurta-Sets-8711608024800384-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Western",
+    "subtitle": "Try Stylist Picked Western Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/13843066/2021/3/22/7e89d7b3-8427-40ea-b330-9eb9af9adc301616400454236-SASSAFRAS-Women-Trousers-1801616400453236-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/12371204/2020/9/1/bd433f8a-9bd6-4232-a71c-d9fbaf0f1aa91598963706074GOLDSTROMS1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/12371224/2020/9/1/6162092e-41cb-44d0-b94f-61a9550628ce1598964219131GOLDSTROMS1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/12371234/2020/9/1/9c8727af-7288-444f-a93b-00750ad5ef041598959649835GOLDSTROMSWomenBeigeSolidPalazzos1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2021/1/21/655ee67e-aad2-44c6-a40a-43fb5a190c211611229080186-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/12371216/2020/9/1/41e95c4a-68cd-4837-b3da-f7cf914d5d5d1598964053005GOLDSTROMSWomenNavyBlueSolidPalazzos1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Ethnic",
+    "subtitle": "Try Stylist Picked Ethnic Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/9783293/2021/3/15/ca6b18e0-7ce1-4874-91a3-414cff2622101615798374355-SASSAFRAS-Women-Yellow--Navy-Blue-Ombre-Dyed-Maxi-Dress-1516-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/9070435/2019/3/29/f204e4b8-cc45-44a1-b3a9-384fe51ca56f1553841787907-SASSAFRAS-Women-White-Solid-A-Line-Dress-4861553841787438-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/5649905/2018/5/10/2c6a0f5f-1767-4698-a839-446e8b7e2dee1525936374297-SASSAFRAS-Women-Blue-Solid-A-Line-Dress-7381525936374153-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2019/5/28/0c18677c-d43b-4b64-bde7-7089a44d5b9d1559016333984-1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/13503134/2021/2/4/47b6290f-6a77-44dd-aad0-b5b0ab6614cb1612423042483-Anubhutee-Women-Mustard-Yellow--White-Bandhani-Printed-Pure--1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/8473957/2019/1/12/109d86d4-ac82-47e6-8116-7f602a4f14011547285956710-Rangmanch-by-Pantaloons-Womens-Churidar-8971547285955784-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/13503126/2021/2/8/a4a800ad-cbf3-4437-b749-c5f009b52e181612762667341-Anubhutee-Women-Red--White-Bandhani-Printed-Pure-Cotton-Angr-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Formal",
+    "subtitle": "Try Stylist Picked Formal Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/1454594/2017/5/19/11495170438756-Mast--Harbour-Women-Navy-Blue--Black-Regular-Fit-Checked-Formal-Trousers-6131495170438531-1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/10906886/2019/11/23/a562e167-4996-4f76-b194-fa52a1f0e25e1574505900989-IVOC-Mens-Solid-Shirt-9151574505899261-1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/13271746/2020/12/23/bbe464be-ce4d-4001-a1c0-a248186887231608703596616-IVOC-Men-Shirts-9521608703595410-1.jpg"
+      },
+      {
+        "name": "Thursday",
+        "index": 3,
+        "image": "http://assets.myntassets.com/assets/images/7139448/2019/3/5/c8b9ca11-c367-412f-8a6e-5b262e7c3d861551778072036-Mast--Harbour-Women-Black-Regular-Fit-Solid-Formal-Trousers--1.jpg"
+      },
+      {
+        "name": "Friday",
+        "index": 4,
+        "image": "http://assets.myntassets.com/assets/images/productimage/2020/2/29/32f1fdec-4907-4055-ac12-b23d93b3ae3e1582928304626-1.jpg"
+      },
+      {
+        "name": "Saturday",
+        "index": 5,
+        "image": "http://assets.myntassets.com/assets/images/2079110/2019/7/11/68a3cb45-b83a-4c9f-bcce-d3617d0a83c31562838740043-Arrow-Men-Brown-Slim-Fit-Self-Design-Formal-Trousers-8701562-1.jpg"
+      },
+      {
+        "name": "Sunday",
+        "index": 6,
+        "image": "http://assets.myntassets.com/assets/images/15192564/2021/9/9/b62e7b4b-a50f-4e55-a132-5deba440c1361631170551859-Louis-Philippe-Men-Black-Solid-Slim-Fit-Formal-Trousers-2911-1.jpg"
+      }
+    ]
+  },
+  {
+    "name": "Everyday",
+    "subtitle": "Try Stylist Picked Everyday Wears",
+    "days": [
+      {
+        "name": "Monday",
+        "index": 0,
+        "image": "http://assets.myntassets.com/assets/images/15503046/2021/9/16/698c419f-eac4-4f84-9613-f903bb8ea29a1631796219691Nightdress1.jpg"
+      },
+      {
+        "name": "Tuesday",
+        "index": 1,
+        "image": "http://assets.myntassets.com/assets/images/15861010/2021/10/19/b4ab075c-bc79-4f67-9640-55df6c5e1ba81634644258380RANGMANCHBYPANTALOONSWomenMustardPrinted1.jpg"
+      },
+      {
+        "name": "Wednesday",
+        "index": 2,
+        "image": "http://assets.myntassets.com/assets/images/16475906/2021/12/12/2030deeb-df12-44a7-8dd8-8ba601ed21861639306243238Nightdress1.jpg"
+      }
+    ]
+  }
+]
